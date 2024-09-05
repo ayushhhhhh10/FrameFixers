@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <div
       style={{
-        backgroundImage: "url(src/assets/Footer-background.webp)",
+        backgroundImage: "url(/Footer-background.webp)",
         backgroundSize: "cover",
         backgroundRepeat: "no-repeat",
         backgroundPosition: "75%",

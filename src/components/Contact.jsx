@@ -24,7 +24,7 @@ const Contact = () => {
   return (
     <div
       style={{
-        backgroundImage: "url(src/assets/Contact-background.webp)",
+        backgroundImage: "url(/Contact-background.webp)",
         backgroundPosition: "right",
         backgroundRepeat: "no-repeat",
         backgroundSize: "cover",

@@ -52,7 +52,7 @@ const Work = () => {
           </div>
           <img
             className="w-full h-full object-cover"
-            src="src/assets/video-editing.avif"
+            src="/video-editing.avif"
             alt=""
           />
         </div>
@@ -84,7 +84,7 @@ const Work = () => {
           </div>
           <img
             className="w-full h-full object-cover"
-            src="src/assets/Graphic design.avif"
+            src="/Graphic design.avif"
             alt=""
           />
         </div>

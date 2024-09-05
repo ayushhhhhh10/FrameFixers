@@ -22,7 +22,7 @@ const Home = () => {
       >
         <img
           className="w-full h-full object-cover"
-          src="src/assets/Background-image.webp"
+          src="/Background-image.webp"
           alt=""
         />
       </motion.div>
